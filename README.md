@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1U9pFFlA85Gb4OQSHAkoppEWswsN10PGD/view?usp=shari
 
 ## Waveform Generation
 * Platform - GNURadio Companion
-* Dynamic effects - Dynamic channel model GRC block over range of SNRs
+* Dynamic effects - Dynamic channel model GRC block (gnuradio.channels.dynamic_channel_model) over range of SNRs
 ## Helper Scripts Usage
 * load_dataset.py - script to load the dataset
 * visualize.py    - script to visualize specified waveform
