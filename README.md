@@ -13,7 +13,12 @@ https://drive.google.com/file/d/1U9pFFlA85Gb4OQSHAkoppEWswsN10PGD/view?usp=shari
 * Sampling rate - 10 MS/s
 * Total snapshots per waveform - 700
 * SNR range - -20 dB to 18 dB in steps of 2 dB
+* Modulation Classes - Pulsed Continuous wave, Frequency modulated Continuous wave, BPSK, AM-DSB, AM-SSB, ASK
+* Signal Classes -  Airborne detection radar, Airborne range radar, Air-Ground MTI radar, Ground mapping radar, Radar Altimeter, SATCOM, AM Radio, Short-range wireless
 
+## Waveform Generation
+* Platform - GNURadio Companion
+* Dynamic effects - Dynamic channel model GRC block over range of SNRs
 ## Helper Scripts Usage
 * load_dataset.py - script to load the dataset
 * visualize.py    - script to visualize specified waveform
