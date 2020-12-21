@@ -29,8 +29,8 @@ https://drive.google.com/file/d/1U9pFFlA85Gb4OQSHAkoppEWswsN10PGD/view?usp=shari
   title={{Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification}},
   author={Jagannath, Anu and Jagannath, Jithin},
   journal={arXiv preprint},
-  year={2020}
+  year={2021}
 } </br >
 * **Plain Text** 
-> > A. Jagannath and J. Jagannath. "Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification", arXiv preprint, Nov 2020.</br >
+> > A. Jagannath and J. Jagannath. "Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification", arXiv preprint, Nov 2021.</br >
 
