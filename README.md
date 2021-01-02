@@ -2,7 +2,7 @@
 
 **Ownership and License.** This data set is owned by ANDRO Computational Solutions, LLC (https://www.androcs.com/) and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) located at https://creativecommons.org/licenses/by-nc-sa/4.0/  (the “Creative Commons License”)
 
-**Attribution.** You must prominently display ANDRO Computational Solutions, LLC and the ANDRO logo: ![ANDRO](logo.png)
+**Attribution.** You must prominently display ANDRO Computational Solutions, LLC and the ANDRO logo: ![ANDRO](https://github.com/ANDROComputationalSolutions/RadarCommDataset/blob/main/ANDRO_textLogo_tagline3_h100white.png)
  
 **Derivations.** “Derivations” means that you create a new work or new data set that aggregates this data set or any portion of this dataset, uses this data set or any portion of this  for any calculations, and/or is derived from or is based on this data set or any portion of this dataset.  
 
