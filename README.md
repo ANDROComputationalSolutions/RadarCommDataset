@@ -1,3 +1,11 @@
+**You must include the following in (a) any copy or distribution of this dataset or portion of this data set, (b) any Derivation (defined below) of this dataset or portion of this data set, or (c) any new data set or work that extracts from or modifies this data set or portion of this data set in any way:**
+
+**Ownership and License.** This data set is owned by ANDRO Computational Solutions, LLC (https://www.androcs.com/) and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) located at https://creativecommons.org/licenses/by-nc-sa/4.0/  (the “Creative Commons License”)
+
+**Attribution.** You must prominently display ANDRO Computational Solutions, LLC and the ANDRO logo: ![ANDRO](logo.png)
+ 
+**Derivations.** “Derivations” means that you create a new work or new data set that aggregates this data set or any portion of this dataset, uses this data set or any portion of this  for any calculations, and/or is derived from or is based on this data set or any portion of this dataset.  
+
 # RadarCommDataset: Radar & Communication signals Dataset
 > **RadarCommDataset is a wireless signal dataset released for public use under the [Creative Commons Attribution - NonCommercial - ShareAlike 4.0 (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). The lack of existing multitask labelled datasets for machine learning for wireless communication is the prime motivation urging this release. RadarCommDataset is first of its kind multitask labelled dataset released to help research community to advance machine learning for wireless communication. The dataset contains radar and communication waveforms. This repository supplements helper scripts to visualize as well as extract the dataset.**
 ## Download link
