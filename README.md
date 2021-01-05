@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1U9pFFlA85Gb4OQSHAkoppEWswsN10PGD/view?usp=shari
 > > A. Jagannath and J. Jagannath. "Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification", arXiv preprint, Nov 2021.</br >
 
 ## Additional License Info:
-**You must include the following in (a) any copy or distribution of this dataset or portion of this data set, (b) any Derivation (defined below) of this dataset or portion of this dataset, or (c) any new data set or work that extracts from or modifies this dataset or portion of this dataset in any way:**
+**You must include the following in (a) any copy or distribution of this dataset or portion of this dataset, (b) any Derivation (defined below) of this dataset or portion of this dataset, or (c) any new data set or work that extracts from or modifies this dataset or portion of this dataset in any way:**
 
 **Ownership and License.** This dataset is owned by ANDRO Computational Solutions, LLC (https://www.androcs.com/) and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) located at https://creativecommons.org/licenses/by-nc-sa/4.0/  (the “Creative Commons License”)
 
