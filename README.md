@@ -18,7 +18,20 @@ https://drive.google.com/file/d/1U9pFFlA85Gb4OQSHAkoppEWswsN10PGD/view?usp=shari
 
 ## Waveform Generation
 * Platform - GNURadio Companion
-* Dynamic effects - Dynamic channel model GRC block (gnuradio.channels.dynamic_channel_model) over range of SNRs
+* Dynamic effects - Dynamic channel model GRC block (gnuradio.channels.dynamic_channel_model) over range of SNRs. The parameters are shown below:
+--------------------------------------------------------------------------------------
+| Dynamic Parameters                                            |         Value        |
+|---------------------------------------------------------------|:--------------------:|
+| Carrier frequency offset standard deviation per sample        |       0.05 Hz      |
+| Maximum carrier frequency offset                              |       250 Hz       |
+| Sample rate offset standard deviation per sample              |       0.05 Hz      |
+| Maximum sample rate offset                                    |        60 Hz       |
+| Number of sinusoids used in frequency selective fading        |           5          |
+| Maximum doppler frequency                                     |         2 Hz         |
+| Rician K-factor                                               |           3          |
+| Fractional sample delays comprising power delay profile (PDP) | [ 0.2, 0.3, 0.1] |
+| Number of multipath taps                                      |           5          |
+| List of magnitudes corresponding to each delay in PDP         |  [1, 0.5, 0.5 ]  |
 ## Helper Scripts Usage
 * load_dataset.py - script to load the dataset
 * visualize.py    - script to visualize specified waveform
