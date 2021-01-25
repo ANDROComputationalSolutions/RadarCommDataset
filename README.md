@@ -1,4 +1,4 @@
-# RadarCommDataset: Radar & Communication Modulation and Signal Classification Dataset
+# RadarCommDataset: Radar & Communication Signal and Modulation Classification Dataset
 > **RadarCommDataset is a wireless signal dataset released for public use under the [Creative Commons Attribution - NonCommercial - ShareAlike 4.0 (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/)[Additional info can be found at the end] by MR Lab at ANDRO. The lack of existing multitask labelled datasets for machine learning for wireless communication is the prime motivation urging this release. RadarCommDataset is first of its kind multitask labelled dataset released to help research community to advance machine learning for wireless communication. The dataset contains radar and communication waveforms. This repository supplements helper scripts to visualize as well as extract the dataset. Please contact for any other license.**
 ## Download link
 https://drive.google.com/file/d/1U9pFFlA85Gb4OQSHAkoppEWswsN10PGD/view?usp=sharing
