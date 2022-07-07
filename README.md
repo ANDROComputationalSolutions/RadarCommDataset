@@ -41,9 +41,22 @@ https://www.androcs.com/uploads/RadComOta2.45GHz.zip
 
 ## How to cite this dataset ? Please cite the original paper.
 * **BibTeX** 
-> >  @inproceedings{JagannathMTL, title={{Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification}}, author={Jagannath, Anu and Jagannath, Jithin}, booktitle = {Proc. of IEEE International Conference on Communications (ICC)}, address = {Montreal, Canada}, month = {June}, year = {2021} } </br >
+> >  @article{AjagannathCOMNET21,
+title = {Dataset for modulation classification and signal type classification for multi-task and single task learning},
+journal = {Computer Networks},
+volume = {199},
+pages = {108441},
+year = {2021},
+issn = {1389-1286},
+doi = {https://doi.org/10.1016/j.comnet.2021.108441},
+url = {https://www.sciencedirect.com/science/article/pii/S138912862100400X},
+author = {Anu Jagannath and Jithin Jagannath},
+keywords = {Multi-task learning, Machine learning, Deep learning, Modulation classification, signal classification, software defined radio, Radio frequency dataset}}
+> > @inproceedings{JagannathMTL, title={{Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification}}, author={Jagannath, Anu and Jagannath, Jithin}, booktitle = {Proc. of IEEE International Conference on Communications (ICC)}, address = {Montreal, Canada}, month = {June}, year = {2021} } </br >
 * **Plain Text** 
+> > A. Jagannath, J.Jagannath, "Dataset for Modulation Classification and Signal Type Classification for Multi-task and Single Task Learning", Computer Networks (Elsevier), vol. 199,108441, ISSN 1389-1286, 2021.
 > > A. Jagannath, J. Jagannath. "Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification", in Proc. of IEEE International Conference on Communications (ICC), Montreal, Canada, June 2021.</br >
+
 
 ## Additional License Info:
 **You must include the following in (a) any copy or distribution of this dataset or portion of this dataset, (b) any Derivation (defined below) of this dataset or portion of this dataset, or (c) any new data set or work that extracts from or modifies this dataset or portion of this dataset in any way:**
