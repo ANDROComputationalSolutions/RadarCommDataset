@@ -51,10 +51,10 @@ issn = {1389-1286},
 doi = {https://doi.org/10.1016/j.comnet.2021.108441},
 url = {https://www.sciencedirect.com/science/article/pii/S138912862100400X},
 author = {Anu Jagannath and Jithin Jagannath},
-keywords = {Multi-task learning, Machine learning, Deep learning, Modulation classification, signal classification, software defined radio, Radio frequency dataset}}
+keywords = {Multi-task learning, Machine learning, Deep learning, Modulation classification, signal classification, software defined radio, Radio frequency dataset}} </br >
 > > @inproceedings{JagannathMTL, title={{Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification}}, author={Jagannath, Anu and Jagannath, Jithin}, booktitle = {Proc. of IEEE International Conference on Communications (ICC)}, address = {Montreal, Canada}, month = {June}, year = {2021} } </br >
 * **Plain Text** 
-> > A. Jagannath, J.Jagannath, "Dataset for Modulation Classification and Signal Type Classification for Multi-task and Single Task Learning", Computer Networks (Elsevier), vol. 199,108441, ISSN 1389-1286, 2021.
+> > A. Jagannath, J.Jagannath, "Dataset for Modulation Classification and Signal Type Classification for Multi-task and Single Task Learning", Computer Networks (Elsevier), vol. 199,108441, ISSN 1389-1286, 2021. </br >
 > > A. Jagannath, J. Jagannath. "Multi-task Learning Approach for Automatic Modulation and Wireless Signal Classification", in Proc. of IEEE International Conference on Communications (ICC), Montreal, Canada, June 2021.</br >
 
 
