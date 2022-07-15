@@ -18,8 +18,13 @@ https://www.androcs.com/uploads/RadComOta2.45GHz.zip
 * SNR range - -20 dB to 18 dB in steps of 2 dB
 * Modulation Classes - Pulsed Continuous wave, Frequency modulated Continuous wave, BPSK, AM-DSB, AM-SSB, ASK
 * Signal Classes -  Airborne detection radar, Airborne range radar, Air-Ground MTI radar, Ground mapping radar, Radar Altimeter, SATCOM, AM Radio, Short-range wireless
+## Over-the-air captures: RadComOta2.45GHz
+* USRP N210 
+* VERT2450 antenna
+* 10 MS/s sampling rate
+* 2.45 GHz center frequency
 
-## Waveform Generation
+## Waveform Generation: RadComDynamic
 * Platform - GNURadio Companion
 * Dynamic effects - Dynamic channel model GRC block (gnuradio.channels.dynamic_channel_model) over range of SNRs. The parameters are shown below:
 --------------------------------------------------------------------------------------
