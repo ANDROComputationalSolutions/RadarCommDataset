@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  RadarCommDataset: Radar & Communication Signal and
+  Modulation Classification Dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Anu
+    family-names: Jagannath
+    email: ajagannath@androcs.com
+    affiliation: 'ANDRO Computational Solutions, LLC'
+  - given-names: Jithin
+    family-names: Jagannath
+    email: jjagannath@androcs.com
+    affiliation: 'ANDRO Computational Solutions, LLC'
