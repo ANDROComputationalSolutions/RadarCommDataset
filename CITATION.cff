@@ -9,6 +9,7 @@ message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
+url: https://github.com/ANDROComputationalSolutions/RadarCommDataset
 authors:
   - given-names: Anu
     family-names: Jagannath
